@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Sonu Sharma
 
-<!--
-**kumarsonu676/kumarsonu676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Building scalable backend systems with Node.js and TypeScript  
+🌏 Based in India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 Skills & Technologies
+
+## Backend
+- Node.js
+- Express.js
+- TypeScript
+- FastAPI
+- ASP.NET Core
+
+## Databases
+- PostgreSQL
+- MySQL
+- Prisma ORM
+- Sequelize
+
+## Frontend
+- React
+- Next.js
+- React Native
+- TailwindCSS
+
+## Cloud & DevOps
+- Azure Functions
+- Azure Storage
+- Azure Service Bus
+- Docker
+
+## Tools
+- Git
+- Jest
+- Postman
+- Prisma
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarsonu676&show_icons=true)
+
+---
+
+# 📫 Contact Me
+
+- Email: kumarsonu676@gmail.com
+- LinkedIn: https://linkedin.com/in/kumarsonu676
